@@ -1,0 +1,4502 @@
+[
+    {
+        "SKU ID": "SKU-10001",
+        "Name": "Automotive Widget 25",
+        "Location": "Warehouse-A",
+        "System Stock": 149,
+        "Physical Stock": 174,
+        "Value": 63527.4,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10002",
+        "Name": "Electronics Device 38",
+        "Location": "Warehouse-B",
+        "System Stock": 175,
+        "Physical Stock": 175,
+        "Value": 50445.5,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10003",
+        "Name": "Apparel Widget 55",
+        "Location": "Main-Store",
+        "System Stock": 633,
+        "Physical Stock": 633,
+        "Value": 128131.86,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10004",
+        "Name": "Office-Supplies Module 43",
+        "Location": "Warehouse-A",
+        "System Stock": 461,
+        "Physical Stock": 461,
+        "Value": 22192.54,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10005",
+        "Name": "Office-Supplies Pack 29",
+        "Location": "Hub-South",
+        "System Stock": 25,
+        "Physical Stock": 25,
+        "Value": 9069.75,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10006",
+        "Name": "Apparel Gadget 70",
+        "Location": "Warehouse-A",
+        "System Stock": 667,
+        "Physical Stock": 667,
+        "Value": 256581.56,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10007",
+        "Name": "Apparel Device 25",
+        "Location": "Warehouse-B",
+        "System Stock": 141,
+        "Physical Stock": 141,
+        "Value": 10600.38,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10008",
+        "Name": "Automotive Component 26",
+        "Location": "Warehouse-B",
+        "System Stock": 207,
+        "Physical Stock": 207,
+        "Value": 93189.33,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10009",
+        "Name": "Electronics Pack 13",
+        "Location": "Warehouse-B",
+        "System Stock": 606,
+        "Physical Stock": 606,
+        "Value": 273445.38,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10010",
+        "Name": "Automotive Widget 20",
+        "Location": "Hub-South",
+        "System Stock": 338,
+        "Physical Stock": 338,
+        "Value": 55989.7,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10011",
+        "Name": "Home-Goods Device 95",
+        "Location": "Hub-South",
+        "System Stock": 214,
+        "Physical Stock": 214,
+        "Value": 105243.06,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10012",
+        "Name": "Home-Goods Pack 73",
+        "Location": "Warehouse-B",
+        "System Stock": 104,
+        "Physical Stock": 104,
+        "Value": 34986.64,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10013",
+        "Name": "Electronics Pack 23",
+        "Location": "Main-Store",
+        "System Stock": 648,
+        "Physical Stock": 648,
+        "Value": 175063.68,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10014",
+        "Name": "Office-Supplies Pack 46",
+        "Location": "Warehouse-B",
+        "System Stock": 19,
+        "Physical Stock": 19,
+        "Value": 4028.38,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10015",
+        "Name": "Automotive Device 29",
+        "Location": "Warehouse-B",
+        "System Stock": 259,
+        "Physical Stock": 259,
+        "Value": 92229.9,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10016",
+        "Name": "Office-Supplies Pack 80",
+        "Location": "Warehouse-A",
+        "System Stock": 921,
+        "Physical Stock": 921,
+        "Value": 48840.63,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10017",
+        "Name": "Home-Goods Component 83",
+        "Location": "Warehouse-A",
+        "System Stock": 641,
+        "Physical Stock": 641,
+        "Value": 64632.03,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10018",
+        "Name": "Automotive Pack 14",
+        "Location": "Warehouse-B",
+        "System Stock": 132,
+        "Physical Stock": 132,
+        "Value": 11942.04,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10019",
+        "Name": "Electronics Pack 64",
+        "Location": "Hub-South",
+        "System Stock": 798,
+        "Physical Stock": 798,
+        "Value": 299585.16,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10020",
+        "Name": "Office-Supplies Module 78",
+        "Location": "Warehouse-B",
+        "System Stock": 325,
+        "Physical Stock": 325,
+        "Value": 18931.25,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10021",
+        "Name": "Apparel Pack 53",
+        "Location": "Warehouse-B",
+        "System Stock": 317,
+        "Physical Stock": 317,
+        "Value": 10727.28,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10022",
+        "Name": "Automotive Widget 54",
+        "Location": "Hub-North",
+        "System Stock": 865,
+        "Physical Stock": 865,
+        "Value": 361431.6,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10023",
+        "Name": "Home-Goods Device 32",
+        "Location": "Hub-South",
+        "System Stock": 707,
+        "Physical Stock": 707,
+        "Value": 328945.89,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10024",
+        "Name": "Apparel Device 17",
+        "Location": "Hub-North",
+        "System Stock": 323,
+        "Physical Stock": 323,
+        "Value": 98230.76,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10025",
+        "Name": "Automotive Gadget 44",
+        "Location": "Warehouse-A",
+        "System Stock": 155,
+        "Physical Stock": 150,
+        "Value": 31138.5,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10026",
+        "Name": "Office-Supplies Pack 49",
+        "Location": "Hub-South",
+        "System Stock": 453,
+        "Physical Stock": 453,
+        "Value": 56208.24,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10027",
+        "Name": "Automotive Widget 66",
+        "Location": "Hub-South",
+        "System Stock": 404,
+        "Physical Stock": 404,
+        "Value": 166379.32,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10028",
+        "Name": "Home-Goods Device 98",
+        "Location": "Hub-South",
+        "System Stock": 873,
+        "Physical Stock": 873,
+        "Value": 186874.38,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10029",
+        "Name": "Apparel Component 53",
+        "Location": "Hub-North",
+        "System Stock": 77,
+        "Physical Stock": 77,
+        "Value": 22831.27,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10030",
+        "Name": "Automotive Component 30",
+        "Location": "Warehouse-A",
+        "System Stock": 840,
+        "Physical Stock": 840,
+        "Value": 127772.4,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10031",
+        "Name": "Automotive Module 27",
+        "Location": "Hub-South",
+        "System Stock": 764,
+        "Physical Stock": 764,
+        "Value": 127320.6,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10032",
+        "Name": "Electronics Gadget 72",
+        "Location": "Main-Store",
+        "System Stock": 434,
+        "Physical Stock": 434,
+        "Value": 151270.7,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10033",
+        "Name": "Automotive Widget 94",
+        "Location": "Warehouse-B",
+        "System Stock": 233,
+        "Physical Stock": 233,
+        "Value": 5347.35,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10034",
+        "Name": "Electronics Component 32",
+        "Location": "Main-Store",
+        "System Stock": 521,
+        "Physical Stock": 521,
+        "Value": 68521.92,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10035",
+        "Name": "Office-Supplies Device 23",
+        "Location": "Warehouse-A",
+        "System Stock": 77,
+        "Physical Stock": 77,
+        "Value": 13225.52,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10036",
+        "Name": "Apparel Component 30",
+        "Location": "Main-Store",
+        "System Stock": 726,
+        "Physical Stock": 726,
+        "Value": 184440.3,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10037",
+        "Name": "Electronics Component 88",
+        "Location": "Warehouse-A",
+        "System Stock": 344,
+        "Physical Stock": 344,
+        "Value": 168680.4,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10038",
+        "Name": "Apparel Pack 70",
+        "Location": "Warehouse-B",
+        "System Stock": 148,
+        "Physical Stock": 138,
+        "Value": 45658.68,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10039",
+        "Name": "Home-Goods Pack 73",
+        "Location": "Warehouse-A",
+        "System Stock": 342,
+        "Physical Stock": 342,
+        "Value": 14131.44,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10040",
+        "Name": "Apparel Module 35",
+        "Location": "Hub-North",
+        "System Stock": 593,
+        "Physical Stock": 593,
+        "Value": 295954.44,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10041",
+        "Name": "Automotive Device 50",
+        "Location": "Main-Store",
+        "System Stock": 31,
+        "Physical Stock": 31,
+        "Value": 3570.58,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10042",
+        "Name": "Electronics Module 83",
+        "Location": "Hub-North",
+        "System Stock": 257,
+        "Physical Stock": 257,
+        "Value": 110055.11,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10043",
+        "Name": "Electronics Pack 89",
+        "Location": "Main-Store",
+        "System Stock": 909,
+        "Physical Stock": 909,
+        "Value": 352510.2,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10044",
+        "Name": "Office-Supplies Device 66",
+        "Location": "Main-Store",
+        "System Stock": 935,
+        "Physical Stock": 935,
+        "Value": 171937.15,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10045",
+        "Name": "Automotive Widget 12",
+        "Location": "Warehouse-B",
+        "System Stock": 602,
+        "Physical Stock": 602,
+        "Value": 196878.08,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10046",
+        "Name": "Automotive Device 22",
+        "Location": "Hub-North",
+        "System Stock": 747,
+        "Physical Stock": 747,
+        "Value": 159036.3,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10047",
+        "Name": "Office-Supplies Widget 21",
+        "Location": "Warehouse-A",
+        "System Stock": 684,
+        "Physical Stock": 684,
+        "Value": 252478.08,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10048",
+        "Name": "Office-Supplies Device 11",
+        "Location": "Hub-North",
+        "System Stock": 751,
+        "Physical Stock": 751,
+        "Value": 6023.02,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10049",
+        "Name": "Automotive Component 76",
+        "Location": "Main-Store",
+        "System Stock": 133,
+        "Physical Stock": 138,
+        "Value": 39594.96,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10050",
+        "Name": "Home-Goods Component 13",
+        "Location": "Warehouse-A",
+        "System Stock": 535,
+        "Physical Stock": 535,
+        "Value": 75119.35,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10051",
+        "Name": "Office-Supplies Component 70",
+        "Location": "Main-Store",
+        "System Stock": 576,
+        "Physical Stock": 576,
+        "Value": 235042.56,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10052",
+        "Name": "Electronics Device 38",
+        "Location": "Main-Store",
+        "System Stock": 537,
+        "Physical Stock": 542,
+        "Value": 119706.12,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10053",
+        "Name": "Automotive Pack 26",
+        "Location": "Main-Store",
+        "System Stock": 112,
+        "Physical Stock": 102,
+        "Value": 30969.24,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10054",
+        "Name": "Apparel Gadget 16",
+        "Location": "Main-Store",
+        "System Stock": 381,
+        "Physical Stock": 381,
+        "Value": 61561.98,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10055",
+        "Name": "Electronics Component 29",
+        "Location": "Main-Store",
+        "System Stock": 768,
+        "Physical Stock": 768,
+        "Value": 58821.12,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10056",
+        "Name": "Office-Supplies Device 78",
+        "Location": "Main-Store",
+        "System Stock": 830,
+        "Physical Stock": 825,
+        "Value": 370020.75,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10057",
+        "Name": "Automotive Widget 77",
+        "Location": "Main-Store",
+        "System Stock": 743,
+        "Physical Stock": 743,
+        "Value": 260577.53,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10058",
+        "Name": "Electronics Widget 65",
+        "Location": "Warehouse-A",
+        "System Stock": 623,
+        "Physical Stock": 623,
+        "Value": 68972.33,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10059",
+        "Name": "Home-Goods Gadget 52",
+        "Location": "Warehouse-A",
+        "System Stock": 785,
+        "Physical Stock": 785,
+        "Value": 143341.0,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10060",
+        "Name": "Apparel Component 75",
+        "Location": "Hub-South",
+        "System Stock": 618,
+        "Physical Stock": 618,
+        "Value": 127573.74,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10061",
+        "Name": "Automotive Component 84",
+        "Location": "Main-Store",
+        "System Stock": 540,
+        "Physical Stock": 540,
+        "Value": 165364.2,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10062",
+        "Name": "Electronics Widget 33",
+        "Location": "Hub-North",
+        "System Stock": 813,
+        "Physical Stock": 813,
+        "Value": 68405.82,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10063",
+        "Name": "Office-Supplies Gadget 66",
+        "Location": "Warehouse-B",
+        "System Stock": 576,
+        "Physical Stock": 576,
+        "Value": 187338.24,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10064",
+        "Name": "Electronics Module 99",
+        "Location": "Warehouse-A",
+        "System Stock": 546,
+        "Physical Stock": 546,
+        "Value": 60229.26,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10065",
+        "Name": "Electronics Component 35",
+        "Location": "Warehouse-B",
+        "System Stock": 982,
+        "Physical Stock": 982,
+        "Value": 29715.32,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10066",
+        "Name": "Home-Goods Widget 14",
+        "Location": "Hub-South",
+        "System Stock": 519,
+        "Physical Stock": 519,
+        "Value": 254579.88,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10067",
+        "Name": "Home-Goods Pack 63",
+        "Location": "Main-Store",
+        "System Stock": 885,
+        "Physical Stock": 885,
+        "Value": 201603.0,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10068",
+        "Name": "Home-Goods Widget 57",
+        "Location": "Hub-South",
+        "System Stock": 62,
+        "Physical Stock": 62,
+        "Value": 18369.98,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10069",
+        "Name": "Office-Supplies Module 81",
+        "Location": "Warehouse-A",
+        "System Stock": 49,
+        "Physical Stock": 49,
+        "Value": 499.8,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10070",
+        "Name": "Automotive Gadget 52",
+        "Location": "Warehouse-A",
+        "System Stock": 825,
+        "Physical Stock": 775,
+        "Value": 289392.75,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10071",
+        "Name": "Home-Goods Gadget 38",
+        "Location": "Main-Store",
+        "System Stock": 71,
+        "Physical Stock": 71,
+        "Value": 19184.2,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10072",
+        "Name": "Electronics Widget 55",
+        "Location": "Warehouse-B",
+        "System Stock": 258,
+        "Physical Stock": 270,
+        "Value": 92499.3,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10073",
+        "Name": "Automotive Component 77",
+        "Location": "Hub-North",
+        "System Stock": 425,
+        "Physical Stock": 425,
+        "Value": 128384.0,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10074",
+        "Name": "Apparel Pack 99",
+        "Location": "Main-Store",
+        "System Stock": 572,
+        "Physical Stock": 572,
+        "Value": 252926.96,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10075",
+        "Name": "Apparel Gadget 19",
+        "Location": "Main-Store",
+        "System Stock": 823,
+        "Physical Stock": 823,
+        "Value": 355963.96,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10076",
+        "Name": "Electronics Gadget 49",
+        "Location": "Warehouse-A",
+        "System Stock": 667,
+        "Physical Stock": 672,
+        "Value": 11141.76,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10077",
+        "Name": "Automotive Pack 97",
+        "Location": "Main-Store",
+        "System Stock": 202,
+        "Physical Stock": 192,
+        "Value": 61424.64,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10078",
+        "Name": "Electronics Gadget 83",
+        "Location": "Main-Store",
+        "System Stock": 769,
+        "Physical Stock": 781,
+        "Value": 268976.4,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10079",
+        "Name": "Automotive Pack 32",
+        "Location": "Warehouse-A",
+        "System Stock": 533,
+        "Physical Stock": 533,
+        "Value": 34879.52,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10080",
+        "Name": "Automotive Component 58",
+        "Location": "Warehouse-A",
+        "System Stock": 448,
+        "Physical Stock": 448,
+        "Value": 218968.96,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10081",
+        "Name": "Automotive Module 63",
+        "Location": "Warehouse-A",
+        "System Stock": 171,
+        "Physical Stock": 171,
+        "Value": 18375.66,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10082",
+        "Name": "Electronics Gadget 33",
+        "Location": "Hub-South",
+        "System Stock": 158,
+        "Physical Stock": 158,
+        "Value": 23077.48,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10083",
+        "Name": "Home-Goods Widget 63",
+        "Location": "Main-Store",
+        "System Stock": 590,
+        "Physical Stock": 590,
+        "Value": 14637.9,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10084",
+        "Name": "Automotive Module 16",
+        "Location": "Main-Store",
+        "System Stock": 22,
+        "Physical Stock": 22,
+        "Value": 5672.26,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10085",
+        "Name": "Electronics Widget 19",
+        "Location": "Warehouse-B",
+        "System Stock": 762,
+        "Physical Stock": 752,
+        "Value": 31749.44,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10086",
+        "Name": "Apparel Component 43",
+        "Location": "Hub-North",
+        "System Stock": 259,
+        "Physical Stock": 259,
+        "Value": 97360.69,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10087",
+        "Name": "Apparel Gadget 90",
+        "Location": "Main-Store",
+        "System Stock": 786,
+        "Physical Stock": 786,
+        "Value": 222783.84,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10088",
+        "Name": "Home-Goods Module 41",
+        "Location": "Hub-South",
+        "System Stock": 558,
+        "Physical Stock": 558,
+        "Value": 150185.7,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10089",
+        "Name": "Automotive Component 74",
+        "Location": "Main-Store",
+        "System Stock": 728,
+        "Physical Stock": 728,
+        "Value": 172688.88,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10090",
+        "Name": "Office-Supplies Gadget 56",
+        "Location": "Warehouse-B",
+        "System Stock": 659,
+        "Physical Stock": 659,
+        "Value": 174364.81,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10091",
+        "Name": "Automotive Device 82",
+        "Location": "Warehouse-B",
+        "System Stock": 680,
+        "Physical Stock": 680,
+        "Value": 143004.0,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10092",
+        "Name": "Home-Goods Component 10",
+        "Location": "Hub-North",
+        "System Stock": 575,
+        "Physical Stock": 575,
+        "Value": 113142.75,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10093",
+        "Name": "Home-Goods Pack 31",
+        "Location": "Warehouse-B",
+        "System Stock": 736,
+        "Physical Stock": 736,
+        "Value": 206632.0,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10094",
+        "Name": "Electronics Device 43",
+        "Location": "Warehouse-A",
+        "System Stock": 594,
+        "Physical Stock": 594,
+        "Value": 58105.08,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10095",
+        "Name": "Apparel Pack 19",
+        "Location": "Warehouse-A",
+        "System Stock": 874,
+        "Physical Stock": 874,
+        "Value": 182298.92,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10096",
+        "Name": "Automotive Pack 52",
+        "Location": "Warehouse-B",
+        "System Stock": 862,
+        "Physical Stock": 862,
+        "Value": 168512.38,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10097",
+        "Name": "Automotive Widget 59",
+        "Location": "Warehouse-A",
+        "System Stock": 639,
+        "Physical Stock": 639,
+        "Value": 133812.99,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10098",
+        "Name": "Office-Supplies Device 34",
+        "Location": "Main-Store",
+        "System Stock": 265,
+        "Physical Stock": 265,
+        "Value": 72782.25,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10099",
+        "Name": "Home-Goods Module 31",
+        "Location": "Main-Store",
+        "System Stock": 752,
+        "Physical Stock": 752,
+        "Value": 121357.76,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10100",
+        "Name": "Office-Supplies Module 77",
+        "Location": "Hub-South",
+        "System Stock": 945,
+        "Physical Stock": 945,
+        "Value": 315951.3,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10101",
+        "Name": "Office-Supplies Pack 50",
+        "Location": "Hub-North",
+        "System Stock": 439,
+        "Physical Stock": 439,
+        "Value": 95284.95,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10102",
+        "Name": "Office-Supplies Component 54",
+        "Location": "Warehouse-B",
+        "System Stock": 965,
+        "Physical Stock": 977,
+        "Value": 31928.36,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10103",
+        "Name": "Apparel Gadget 80",
+        "Location": "Warehouse-A",
+        "System Stock": 845,
+        "Physical Stock": 845,
+        "Value": 215415.85,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10104",
+        "Name": "Home-Goods Device 61",
+        "Location": "Main-Store",
+        "System Stock": 622,
+        "Physical Stock": 647,
+        "Value": 40165.76,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10105",
+        "Name": "Electronics Module 41",
+        "Location": "Warehouse-A",
+        "System Stock": 49,
+        "Physical Stock": 49,
+        "Value": 14979.3,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10106",
+        "Name": "Home-Goods Component 40",
+        "Location": "Warehouse-B",
+        "System Stock": 325,
+        "Physical Stock": 325,
+        "Value": 29802.5,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10107",
+        "Name": "Electronics Gadget 25",
+        "Location": "Warehouse-A",
+        "System Stock": 687,
+        "Physical Stock": 687,
+        "Value": 283181.4,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10108",
+        "Name": "Apparel Module 29",
+        "Location": "Hub-South",
+        "System Stock": 689,
+        "Physical Stock": 689,
+        "Value": 233619.23,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10109",
+        "Name": "Home-Goods Module 47",
+        "Location": "Warehouse-A",
+        "System Stock": 328,
+        "Physical Stock": 328,
+        "Value": 55382.8,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10110",
+        "Name": "Office-Supplies Component 99",
+        "Location": "Hub-North",
+        "System Stock": 534,
+        "Physical Stock": 539,
+        "Value": 92497.79,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10111",
+        "Name": "Automotive Widget 41",
+        "Location": "Hub-South",
+        "System Stock": 758,
+        "Physical Stock": 758,
+        "Value": 23899.74,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10112",
+        "Name": "Apparel Gadget 37",
+        "Location": "Warehouse-B",
+        "System Stock": 516,
+        "Physical Stock": 516,
+        "Value": 93519.84,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10113",
+        "Name": "Apparel Device 19",
+        "Location": "Warehouse-B",
+        "System Stock": 517,
+        "Physical Stock": 517,
+        "Value": 247658.51,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10114",
+        "Name": "Apparel Gadget 14",
+        "Location": "Hub-South",
+        "System Stock": 534,
+        "Physical Stock": 534,
+        "Value": 245292.9,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10115",
+        "Name": "Home-Goods Component 17",
+        "Location": "Main-Store",
+        "System Stock": 547,
+        "Physical Stock": 547,
+        "Value": 89532.96,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10116",
+        "Name": "Office-Supplies Pack 25",
+        "Location": "Warehouse-B",
+        "System Stock": 751,
+        "Physical Stock": 751,
+        "Value": 210144.82,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10117",
+        "Name": "Home-Goods Widget 97",
+        "Location": "Hub-North",
+        "System Stock": 426,
+        "Physical Stock": 416,
+        "Value": 13981.76,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10118",
+        "Name": "Office-Supplies Gadget 65",
+        "Location": "Main-Store",
+        "System Stock": 425,
+        "Physical Stock": 425,
+        "Value": 34119.0,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10119",
+        "Name": "Home-Goods Pack 65",
+        "Location": "Hub-South",
+        "System Stock": 888,
+        "Physical Stock": 888,
+        "Value": 286708.56,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10120",
+        "Name": "Automotive Pack 91",
+        "Location": "Warehouse-B",
+        "System Stock": 291,
+        "Physical Stock": 291,
+        "Value": 117302.1,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10121",
+        "Name": "Electronics Gadget 22",
+        "Location": "Hub-North",
+        "System Stock": 217,
+        "Physical Stock": 217,
+        "Value": 9142.21,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10122",
+        "Name": "Apparel Pack 99",
+        "Location": "Warehouse-B",
+        "System Stock": 932,
+        "Physical Stock": 932,
+        "Value": 450398.32,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10123",
+        "Name": "Apparel Device 23",
+        "Location": "Warehouse-A",
+        "System Stock": 783,
+        "Physical Stock": 783,
+        "Value": 217697.49,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10124",
+        "Name": "Automotive Gadget 82",
+        "Location": "Warehouse-A",
+        "System Stock": 64,
+        "Physical Stock": 64,
+        "Value": 29729.28,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10125",
+        "Name": "Electronics Widget 79",
+        "Location": "Warehouse-A",
+        "System Stock": 763,
+        "Physical Stock": 763,
+        "Value": 92765.54,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10126",
+        "Name": "Home-Goods Component 69",
+        "Location": "Warehouse-B",
+        "System Stock": 39,
+        "Physical Stock": 39,
+        "Value": 10016.76,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10127",
+        "Name": "Home-Goods Pack 21",
+        "Location": "Warehouse-B",
+        "System Stock": 65,
+        "Physical Stock": 65,
+        "Value": 12405.25,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10128",
+        "Name": "Automotive Module 52",
+        "Location": "Warehouse-A",
+        "System Stock": 245,
+        "Physical Stock": 245,
+        "Value": 117247.2,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10129",
+        "Name": "Automotive Pack 15",
+        "Location": "Warehouse-A",
+        "System Stock": 263,
+        "Physical Stock": 263,
+        "Value": 93869.96,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10130",
+        "Name": "Electronics Component 87",
+        "Location": "Hub-North",
+        "System Stock": 863,
+        "Physical Stock": 863,
+        "Value": 268418.89,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10131",
+        "Name": "Automotive Widget 71",
+        "Location": "Hub-North",
+        "System Stock": 821,
+        "Physical Stock": 821,
+        "Value": 383234.59,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10132",
+        "Name": "Electronics Pack 60",
+        "Location": "Hub-North",
+        "System Stock": 546,
+        "Physical Stock": 546,
+        "Value": 59732.4,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10133",
+        "Name": "Apparel Pack 78",
+        "Location": "Main-Store",
+        "System Stock": 895,
+        "Physical Stock": 895,
+        "Value": 99622.45,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10134",
+        "Name": "Apparel Pack 82",
+        "Location": "Hub-North",
+        "System Stock": 606,
+        "Physical Stock": 556,
+        "Value": 236733.68,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10135",
+        "Name": "Automotive Widget 66",
+        "Location": "Hub-South",
+        "System Stock": 211,
+        "Physical Stock": 211,
+        "Value": 3662.96,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10136",
+        "Name": "Office-Supplies Component 80",
+        "Location": "Hub-North",
+        "System Stock": 861,
+        "Physical Stock": 873,
+        "Value": 205146.27,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10137",
+        "Name": "Apparel Widget 53",
+        "Location": "Hub-South",
+        "System Stock": 598,
+        "Physical Stock": 598,
+        "Value": 71532.76,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10138",
+        "Name": "Electronics Component 46",
+        "Location": "Warehouse-B",
+        "System Stock": 547,
+        "Physical Stock": 547,
+        "Value": 179180.79,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10139",
+        "Name": "Automotive Gadget 76",
+        "Location": "Main-Store",
+        "System Stock": 266,
+        "Physical Stock": 266,
+        "Value": 90987.96,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10140",
+        "Name": "Apparel Pack 26",
+        "Location": "Main-Store",
+        "System Stock": 536,
+        "Physical Stock": 536,
+        "Value": 147919.92,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10141",
+        "Name": "Office-Supplies Component 26",
+        "Location": "Warehouse-B",
+        "System Stock": 902,
+        "Physical Stock": 892,
+        "Value": 11150.0,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10142",
+        "Name": "Automotive Gadget 13",
+        "Location": "Warehouse-A",
+        "System Stock": 445,
+        "Physical Stock": 435,
+        "Value": 18461.4,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10143",
+        "Name": "Home-Goods Device 20",
+        "Location": "Warehouse-A",
+        "System Stock": 917,
+        "Physical Stock": 907,
+        "Value": 273578.41,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10144",
+        "Name": "Automotive Pack 25",
+        "Location": "Warehouse-A",
+        "System Stock": 341,
+        "Physical Stock": 341,
+        "Value": 158906.0,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10145",
+        "Name": "Office-Supplies Component 70",
+        "Location": "Main-Store",
+        "System Stock": 363,
+        "Physical Stock": 358,
+        "Value": 144384.98,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10146",
+        "Name": "Electronics Gadget 36",
+        "Location": "Hub-North",
+        "System Stock": 90,
+        "Physical Stock": 85,
+        "Value": 2040.0,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10147",
+        "Name": "Home-Goods Gadget 13",
+        "Location": "Hub-North",
+        "System Stock": 419,
+        "Physical Stock": 419,
+        "Value": 27817.41,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10148",
+        "Name": "Electronics Component 99",
+        "Location": "Main-Store",
+        "System Stock": 91,
+        "Physical Stock": 91,
+        "Value": 13576.29,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10149",
+        "Name": "Apparel Gadget 37",
+        "Location": "Main-Store",
+        "System Stock": 956,
+        "Physical Stock": 956,
+        "Value": 454530.2,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10150",
+        "Name": "Office-Supplies Widget 88",
+        "Location": "Hub-North",
+        "System Stock": 599,
+        "Physical Stock": 599,
+        "Value": 121890.51,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10151",
+        "Name": "Home-Goods Widget 40",
+        "Location": "Warehouse-A",
+        "System Stock": 100,
+        "Physical Stock": 100,
+        "Value": 15656.0,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10152",
+        "Name": "Apparel Device 48",
+        "Location": "Hub-North",
+        "System Stock": 940,
+        "Physical Stock": 940,
+        "Value": 23077.0,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10153",
+        "Name": "Home-Goods Pack 49",
+        "Location": "Hub-South",
+        "System Stock": 36,
+        "Physical Stock": 36,
+        "Value": 3688.56,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10154",
+        "Name": "Electronics Gadget 37",
+        "Location": "Hub-North",
+        "System Stock": 136,
+        "Physical Stock": 136,
+        "Value": 57850.32,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10155",
+        "Name": "Office-Supplies Pack 70",
+        "Location": "Main-Store",
+        "System Stock": 469,
+        "Physical Stock": 469,
+        "Value": 197631.91,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10156",
+        "Name": "Apparel Pack 29",
+        "Location": "Warehouse-B",
+        "System Stock": 736,
+        "Physical Stock": 736,
+        "Value": 293399.04,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10157",
+        "Name": "Home-Goods Widget 48",
+        "Location": "Main-Store",
+        "System Stock": 462,
+        "Physical Stock": 462,
+        "Value": 163127.58,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10158",
+        "Name": "Automotive Widget 78",
+        "Location": "Warehouse-B",
+        "System Stock": 699,
+        "Physical Stock": 699,
+        "Value": 150361.89,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10159",
+        "Name": "Home-Goods Widget 64",
+        "Location": "Hub-South",
+        "System Stock": 669,
+        "Physical Stock": 681,
+        "Value": 312960.36,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10160",
+        "Name": "Office-Supplies Gadget 74",
+        "Location": "Main-Store",
+        "System Stock": 361,
+        "Physical Stock": 361,
+        "Value": 11306.52,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10161",
+        "Name": "Automotive Component 59",
+        "Location": "Warehouse-B",
+        "System Stock": 920,
+        "Physical Stock": 910,
+        "Value": 319282.6,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10162",
+        "Name": "Electronics Gadget 36",
+        "Location": "Warehouse-B",
+        "System Stock": 643,
+        "Physical Stock": 593,
+        "Value": 36339.04,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10163",
+        "Name": "Automotive Pack 33",
+        "Location": "Warehouse-B",
+        "System Stock": 869,
+        "Physical Stock": 869,
+        "Value": 226991.49,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10164",
+        "Name": "Home-Goods Component 67",
+        "Location": "Hub-North",
+        "System Stock": 174,
+        "Physical Stock": 174,
+        "Value": 40512.42,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10165",
+        "Name": "Apparel Module 41",
+        "Location": "Warehouse-B",
+        "System Stock": 740,
+        "Physical Stock": 740,
+        "Value": 157856.8,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10166",
+        "Name": "Home-Goods Gadget 91",
+        "Location": "Warehouse-B",
+        "System Stock": 592,
+        "Physical Stock": 592,
+        "Value": 27089.92,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10167",
+        "Name": "Automotive Pack 15",
+        "Location": "Main-Store",
+        "System Stock": 946,
+        "Physical Stock": 946,
+        "Value": 231297.0,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10168",
+        "Name": "Office-Supplies Module 20",
+        "Location": "Warehouse-B",
+        "System Stock": 469,
+        "Physical Stock": 469,
+        "Value": 16790.2,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10169",
+        "Name": "Electronics Gadget 12",
+        "Location": "Warehouse-A",
+        "System Stock": 1000,
+        "Physical Stock": 1000,
+        "Value": 313410.0,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10170",
+        "Name": "Apparel Device 38",
+        "Location": "Warehouse-A",
+        "System Stock": 947,
+        "Physical Stock": 947,
+        "Value": 87436.51,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10171",
+        "Name": "Office-Supplies Module 45",
+        "Location": "Warehouse-B",
+        "System Stock": 284,
+        "Physical Stock": 284,
+        "Value": 53869.12,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10172",
+        "Name": "Home-Goods Pack 82",
+        "Location": "Hub-South",
+        "System Stock": 788,
+        "Physical Stock": 788,
+        "Value": 173289.08,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10173",
+        "Name": "Apparel Widget 35",
+        "Location": "Hub-South",
+        "System Stock": 207,
+        "Physical Stock": 207,
+        "Value": 70131.6,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10174",
+        "Name": "Office-Supplies Component 13",
+        "Location": "Hub-South",
+        "System Stock": 83,
+        "Physical Stock": 83,
+        "Value": 3991.47,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10175",
+        "Name": "Electronics Component 57",
+        "Location": "Main-Store",
+        "System Stock": 579,
+        "Physical Stock": 579,
+        "Value": 235230.33,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10176",
+        "Name": "Office-Supplies Gadget 48",
+        "Location": "Warehouse-A",
+        "System Stock": 465,
+        "Physical Stock": 470,
+        "Value": 75641.8,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10177",
+        "Name": "Office-Supplies Module 25",
+        "Location": "Warehouse-B",
+        "System Stock": 464,
+        "Physical Stock": 464,
+        "Value": 159184.48,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10178",
+        "Name": "Automotive Pack 91",
+        "Location": "Hub-South",
+        "System Stock": 269,
+        "Physical Stock": 269,
+        "Value": 21662.57,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10179",
+        "Name": "Electronics Pack 11",
+        "Location": "Hub-North",
+        "System Stock": 418,
+        "Physical Stock": 418,
+        "Value": 165569.8,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10180",
+        "Name": "Home-Goods Widget 23",
+        "Location": "Warehouse-A",
+        "System Stock": 486,
+        "Physical Stock": 486,
+        "Value": 163607.04,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10181",
+        "Name": "Apparel Widget 83",
+        "Location": "Hub-North",
+        "System Stock": 70,
+        "Physical Stock": 70,
+        "Value": 8831.2,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10182",
+        "Name": "Home-Goods Gadget 33",
+        "Location": "Main-Store",
+        "System Stock": 896,
+        "Physical Stock": 896,
+        "Value": 73660.16,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10183",
+        "Name": "Office-Supplies Module 50",
+        "Location": "Hub-South",
+        "System Stock": 641,
+        "Physical Stock": 641,
+        "Value": 86913.19,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10184",
+        "Name": "Automotive Device 13",
+        "Location": "Warehouse-A",
+        "System Stock": 320,
+        "Physical Stock": 320,
+        "Value": 75036.8,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10185",
+        "Name": "Electronics Component 87",
+        "Location": "Hub-South",
+        "System Stock": 888,
+        "Physical Stock": 888,
+        "Value": 19322.88,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10186",
+        "Name": "Electronics Pack 95",
+        "Location": "Warehouse-A",
+        "System Stock": 640,
+        "Physical Stock": 640,
+        "Value": 140960.0,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10187",
+        "Name": "Home-Goods Widget 60",
+        "Location": "Main-Store",
+        "System Stock": 434,
+        "Physical Stock": 434,
+        "Value": 78323.98,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10188",
+        "Name": "Home-Goods Widget 60",
+        "Location": "Hub-South",
+        "System Stock": 898,
+        "Physical Stock": 898,
+        "Value": 294005.2,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10189",
+        "Name": "Automotive Widget 23",
+        "Location": "Hub-South",
+        "System Stock": 931,
+        "Physical Stock": 931,
+        "Value": 168920.64,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10190",
+        "Name": "Electronics Module 90",
+        "Location": "Main-Store",
+        "System Stock": 433,
+        "Physical Stock": 433,
+        "Value": 174667.87,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10191",
+        "Name": "Office-Supplies Widget 97",
+        "Location": "Warehouse-B",
+        "System Stock": 696,
+        "Physical Stock": 696,
+        "Value": 115591.68,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10192",
+        "Name": "Automotive Gadget 46",
+        "Location": "Warehouse-A",
+        "System Stock": 86,
+        "Physical Stock": 86,
+        "Value": 26924.02,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10193",
+        "Name": "Apparel Pack 43",
+        "Location": "Warehouse-A",
+        "System Stock": 632,
+        "Physical Stock": 632,
+        "Value": 162038.48,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10194",
+        "Name": "Home-Goods Module 88",
+        "Location": "Hub-South",
+        "System Stock": 150,
+        "Physical Stock": 150,
+        "Value": 61131.0,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10195",
+        "Name": "Office-Supplies Module 70",
+        "Location": "Warehouse-A",
+        "System Stock": 211,
+        "Physical Stock": 211,
+        "Value": 15090.72,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10196",
+        "Name": "Office-Supplies Pack 94",
+        "Location": "Hub-South",
+        "System Stock": 208,
+        "Physical Stock": 198,
+        "Value": 14564.88,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10197",
+        "Name": "Apparel Device 53",
+        "Location": "Hub-North",
+        "System Stock": 241,
+        "Physical Stock": 241,
+        "Value": 119442.01,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10198",
+        "Name": "Office-Supplies Component 31",
+        "Location": "Hub-South",
+        "System Stock": 931,
+        "Physical Stock": 931,
+        "Value": 450492.28,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10199",
+        "Name": "Automotive Component 99",
+        "Location": "Hub-South",
+        "System Stock": 27,
+        "Physical Stock": 27,
+        "Value": 6399.0,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10200",
+        "Name": "Office-Supplies Component 15",
+        "Location": "Warehouse-B",
+        "System Stock": 475,
+        "Physical Stock": 475,
+        "Value": 151159.25,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10201",
+        "Name": "Automotive Widget 54",
+        "Location": "Hub-North",
+        "System Stock": 129,
+        "Physical Stock": 129,
+        "Value": 4832.34,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10202",
+        "Name": "Office-Supplies Module 81",
+        "Location": "Hub-South",
+        "System Stock": 55,
+        "Physical Stock": 55,
+        "Value": 19049.8,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10203",
+        "Name": "Home-Goods Device 79",
+        "Location": "Main-Store",
+        "System Stock": 754,
+        "Physical Stock": 754,
+        "Value": 188356.74,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10204",
+        "Name": "Home-Goods Component 60",
+        "Location": "Warehouse-A",
+        "System Stock": 396,
+        "Physical Stock": 396,
+        "Value": 32297.76,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10205",
+        "Name": "Electronics Gadget 92",
+        "Location": "Main-Store",
+        "System Stock": 749,
+        "Physical Stock": 749,
+        "Value": 131846.47,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10206",
+        "Name": "Office-Supplies Module 35",
+        "Location": "Hub-North",
+        "System Stock": 925,
+        "Physical Stock": 925,
+        "Value": 324527.0,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10207",
+        "Name": "Apparel Widget 67",
+        "Location": "Hub-South",
+        "System Stock": 945,
+        "Physical Stock": 945,
+        "Value": 108211.95,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10208",
+        "Name": "Electronics Pack 16",
+        "Location": "Warehouse-B",
+        "System Stock": 468,
+        "Physical Stock": 468,
+        "Value": 60914.88,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10209",
+        "Name": "Automotive Module 76",
+        "Location": "Hub-South",
+        "System Stock": 805,
+        "Physical Stock": 805,
+        "Value": 94893.4,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10210",
+        "Name": "Electronics Widget 61",
+        "Location": "Hub-North",
+        "System Stock": 300,
+        "Physical Stock": 300,
+        "Value": 67155.0,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10211",
+        "Name": "Automotive Component 55",
+        "Location": "Warehouse-B",
+        "System Stock": 925,
+        "Physical Stock": 925,
+        "Value": 454073.25,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10212",
+        "Name": "Home-Goods Module 40",
+        "Location": "Warehouse-A",
+        "System Stock": 597,
+        "Physical Stock": 597,
+        "Value": 108397.29,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10213",
+        "Name": "Electronics Gadget 65",
+        "Location": "Hub-North",
+        "System Stock": 610,
+        "Physical Stock": 610,
+        "Value": 118303.4,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10214",
+        "Name": "Automotive Pack 10",
+        "Location": "Main-Store",
+        "System Stock": 656,
+        "Physical Stock": 656,
+        "Value": 191965.28,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10215",
+        "Name": "Home-Goods Widget 83",
+        "Location": "Warehouse-A",
+        "System Stock": 128,
+        "Physical Stock": 128,
+        "Value": 12051.2,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10216",
+        "Name": "Apparel Widget 58",
+        "Location": "Hub-North",
+        "System Stock": 268,
+        "Physical Stock": 273,
+        "Value": 23136.75,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10217",
+        "Name": "Home-Goods Pack 89",
+        "Location": "Hub-South",
+        "System Stock": 38,
+        "Physical Stock": 38,
+        "Value": 5730.78,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10218",
+        "Name": "Apparel Pack 25",
+        "Location": "Hub-North",
+        "System Stock": 441,
+        "Physical Stock": 441,
+        "Value": 95895.45,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10219",
+        "Name": "Automotive Gadget 27",
+        "Location": "Warehouse-B",
+        "System Stock": 135,
+        "Physical Stock": 135,
+        "Value": 30312.9,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10220",
+        "Name": "Automotive Widget 60",
+        "Location": "Hub-South",
+        "System Stock": 210,
+        "Physical Stock": 210,
+        "Value": 25309.2,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10221",
+        "Name": "Electronics Gadget 64",
+        "Location": "Hub-North",
+        "System Stock": 284,
+        "Physical Stock": 284,
+        "Value": 76918.56,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10222",
+        "Name": "Automotive Component 58",
+        "Location": "Hub-South",
+        "System Stock": 97,
+        "Physical Stock": 97,
+        "Value": 35502.97,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10223",
+        "Name": "Home-Goods Module 41",
+        "Location": "Warehouse-B",
+        "System Stock": 470,
+        "Physical Stock": 470,
+        "Value": 87608.0,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10224",
+        "Name": "Office-Supplies Device 13",
+        "Location": "Hub-North",
+        "System Stock": 755,
+        "Physical Stock": 755,
+        "Value": 169406.9,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10225",
+        "Name": "Office-Supplies Gadget 26",
+        "Location": "Warehouse-B",
+        "System Stock": 836,
+        "Physical Stock": 841,
+        "Value": 265663.49,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10226",
+        "Name": "Electronics Component 40",
+        "Location": "Main-Store",
+        "System Stock": 221,
+        "Physical Stock": 221,
+        "Value": 33483.71,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10227",
+        "Name": "Electronics Widget 65",
+        "Location": "Hub-South",
+        "System Stock": 340,
+        "Physical Stock": 340,
+        "Value": 155876.4,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10228",
+        "Name": "Apparel Gadget 36",
+        "Location": "Warehouse-A",
+        "System Stock": 557,
+        "Physical Stock": 557,
+        "Value": 32411.83,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10229",
+        "Name": "Electronics Gadget 89",
+        "Location": "Warehouse-B",
+        "System Stock": 305,
+        "Physical Stock": 305,
+        "Value": 48129.0,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10230",
+        "Name": "Office-Supplies Component 30",
+        "Location": "Hub-South",
+        "System Stock": 783,
+        "Physical Stock": 783,
+        "Value": 344692.26,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10231",
+        "Name": "Home-Goods Pack 62",
+        "Location": "Hub-North",
+        "System Stock": 959,
+        "Physical Stock": 959,
+        "Value": 354657.38,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10232",
+        "Name": "Apparel Module 71",
+        "Location": "Warehouse-A",
+        "System Stock": 787,
+        "Physical Stock": 787,
+        "Value": 4769.22,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10233",
+        "Name": "Electronics Pack 63",
+        "Location": "Warehouse-B",
+        "System Stock": 912,
+        "Physical Stock": 912,
+        "Value": 289751.52,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10234",
+        "Name": "Office-Supplies Pack 39",
+        "Location": "Warehouse-B",
+        "System Stock": 234,
+        "Physical Stock": 234,
+        "Value": 31049.46,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10235",
+        "Name": "Office-Supplies Component 88",
+        "Location": "Hub-North",
+        "System Stock": 121,
+        "Physical Stock": 121,
+        "Value": 50734.09,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10236",
+        "Name": "Electronics Gadget 37",
+        "Location": "Warehouse-A",
+        "System Stock": 714,
+        "Physical Stock": 714,
+        "Value": 187460.7,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10237",
+        "Name": "Electronics Widget 68",
+        "Location": "Hub-North",
+        "System Stock": 358,
+        "Physical Stock": 358,
+        "Value": 17982.34,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10238",
+        "Name": "Apparel Widget 46",
+        "Location": "Hub-North",
+        "System Stock": 536,
+        "Physical Stock": 531,
+        "Value": 249309.81,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10239",
+        "Name": "Home-Goods Device 73",
+        "Location": "Main-Store",
+        "System Stock": 512,
+        "Physical Stock": 512,
+        "Value": 127165.44,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10240",
+        "Name": "Electronics Gadget 99",
+        "Location": "Main-Store",
+        "System Stock": 119,
+        "Physical Stock": 119,
+        "Value": 24981.67,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10241",
+        "Name": "Electronics Module 90",
+        "Location": "Hub-South",
+        "System Stock": 920,
+        "Physical Stock": 910,
+        "Value": 38729.6,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10242",
+        "Name": "Apparel Device 12",
+        "Location": "Warehouse-A",
+        "System Stock": 623,
+        "Physical Stock": 628,
+        "Value": 121084.68,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10243",
+        "Name": "Automotive Device 51",
+        "Location": "Main-Store",
+        "System Stock": 699,
+        "Physical Stock": 699,
+        "Value": 237799.8,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10244",
+        "Name": "Home-Goods Widget 73",
+        "Location": "Warehouse-B",
+        "System Stock": 969,
+        "Physical Stock": 969,
+        "Value": 268684.32,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10245",
+        "Name": "Automotive Component 29",
+        "Location": "Hub-South",
+        "System Stock": 432,
+        "Physical Stock": 432,
+        "Value": 115585.92,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10246",
+        "Name": "Office-Supplies Gadget 78",
+        "Location": "Hub-North",
+        "System Stock": 78,
+        "Physical Stock": 78,
+        "Value": 37817.52,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10247",
+        "Name": "Electronics Widget 89",
+        "Location": "Warehouse-A",
+        "System Stock": 1000,
+        "Physical Stock": 1000,
+        "Value": 218730.0,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10248",
+        "Name": "Apparel Module 53",
+        "Location": "Main-Store",
+        "System Stock": 940,
+        "Physical Stock": 940,
+        "Value": 288025.4,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10249",
+        "Name": "Apparel Gadget 93",
+        "Location": "Hub-South",
+        "System Stock": 565,
+        "Physical Stock": 565,
+        "Value": 168064.9,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10250",
+        "Name": "Automotive Gadget 35",
+        "Location": "Warehouse-B",
+        "System Stock": 550,
+        "Physical Stock": 550,
+        "Value": 128265.5,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10251",
+        "Name": "Home-Goods Component 32",
+        "Location": "Warehouse-A",
+        "System Stock": 878,
+        "Physical Stock": 878,
+        "Value": 68124.02,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10252",
+        "Name": "Office-Supplies Component 45",
+        "Location": "Warehouse-B",
+        "System Stock": 920,
+        "Physical Stock": 920,
+        "Value": 271666.8,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10253",
+        "Name": "Electronics Gadget 72",
+        "Location": "Warehouse-A",
+        "System Stock": 365,
+        "Physical Stock": 365,
+        "Value": 82055.65,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10254",
+        "Name": "Home-Goods Module 25",
+        "Location": "Main-Store",
+        "System Stock": 432,
+        "Physical Stock": 432,
+        "Value": 5624.64,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10255",
+        "Name": "Home-Goods Module 57",
+        "Location": "Warehouse-B",
+        "System Stock": 922,
+        "Physical Stock": 922,
+        "Value": 244164.04,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10256",
+        "Name": "Electronics Gadget 68",
+        "Location": "Hub-North",
+        "System Stock": 714,
+        "Physical Stock": 714,
+        "Value": 100559.76,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10257",
+        "Name": "Home-Goods Device 81",
+        "Location": "Hub-North",
+        "System Stock": 974,
+        "Physical Stock": 974,
+        "Value": 309079.42,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10258",
+        "Name": "Office-Supplies Device 46",
+        "Location": "Hub-North",
+        "System Stock": 450,
+        "Physical Stock": 450,
+        "Value": 18409.5,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10259",
+        "Name": "Office-Supplies Device 67",
+        "Location": "Warehouse-B",
+        "System Stock": 18,
+        "Physical Stock": 18,
+        "Value": 8061.48,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10260",
+        "Name": "Apparel Widget 29",
+        "Location": "Hub-North",
+        "System Stock": 793,
+        "Physical Stock": 793,
+        "Value": 123065.67,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10261",
+        "Name": "Electronics Gadget 94",
+        "Location": "Warehouse-A",
+        "System Stock": 271,
+        "Physical Stock": 276,
+        "Value": 51612.0,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10262",
+        "Name": "Automotive Pack 65",
+        "Location": "Main-Store",
+        "System Stock": 116,
+        "Physical Stock": 116,
+        "Value": 27248.4,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10263",
+        "Name": "Home-Goods Widget 75",
+        "Location": "Warehouse-A",
+        "System Stock": 488,
+        "Physical Stock": 488,
+        "Value": 120272.48,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10264",
+        "Name": "Electronics Gadget 21",
+        "Location": "Main-Store",
+        "System Stock": 964,
+        "Physical Stock": 964,
+        "Value": 139317.28,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10265",
+        "Name": "Electronics Component 42",
+        "Location": "Hub-North",
+        "System Stock": 688,
+        "Physical Stock": 693,
+        "Value": 102162.06,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10266",
+        "Name": "Home-Goods Component 37",
+        "Location": "Warehouse-B",
+        "System Stock": 541,
+        "Physical Stock": 541,
+        "Value": 45016.61,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10267",
+        "Name": "Home-Goods Widget 21",
+        "Location": "Hub-South",
+        "System Stock": 463,
+        "Physical Stock": 463,
+        "Value": 71362.19,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10268",
+        "Name": "Home-Goods Gadget 22",
+        "Location": "Hub-North",
+        "System Stock": 932,
+        "Physical Stock": 932,
+        "Value": 133257.36,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10269",
+        "Name": "Automotive Component 37",
+        "Location": "Warehouse-A",
+        "System Stock": 445,
+        "Physical Stock": 445,
+        "Value": 26633.25,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10270",
+        "Name": "Home-Goods Module 47",
+        "Location": "Hub-North",
+        "System Stock": 954,
+        "Physical Stock": 954,
+        "Value": 282336.3,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10271",
+        "Name": "Automotive Device 59",
+        "Location": "Main-Store",
+        "System Stock": 685,
+        "Physical Stock": 685,
+        "Value": 25749.15,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10272",
+        "Name": "Home-Goods Module 38",
+        "Location": "Warehouse-A",
+        "System Stock": 434,
+        "Physical Stock": 434,
+        "Value": 145806.64,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10273",
+        "Name": "Automotive Pack 94",
+        "Location": "Hub-North",
+        "System Stock": 443,
+        "Physical Stock": 443,
+        "Value": 77082.0,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10274",
+        "Name": "Electronics Device 59",
+        "Location": "Warehouse-B",
+        "System Stock": 316,
+        "Physical Stock": 316,
+        "Value": 147183.32,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10275",
+        "Name": "Home-Goods Gadget 19",
+        "Location": "Main-Store",
+        "System Stock": 777,
+        "Physical Stock": 777,
+        "Value": 367443.3,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10276",
+        "Name": "Home-Goods Widget 73",
+        "Location": "Warehouse-A",
+        "System Stock": 398,
+        "Physical Stock": 398,
+        "Value": 175892.12,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10277",
+        "Name": "Apparel Pack 83",
+        "Location": "Warehouse-A",
+        "System Stock": 36,
+        "Physical Stock": 0,
+        "Value": 0.0,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10278",
+        "Name": "Electronics Pack 29",
+        "Location": "Warehouse-B",
+        "System Stock": 452,
+        "Physical Stock": 452,
+        "Value": 164898.64,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10279",
+        "Name": "Home-Goods Module 14",
+        "Location": "Warehouse-A",
+        "System Stock": 952,
+        "Physical Stock": 952,
+        "Value": 224338.8,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10280",
+        "Name": "Apparel Device 22",
+        "Location": "Warehouse-A",
+        "System Stock": 787,
+        "Physical Stock": 787,
+        "Value": 301948.29,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10281",
+        "Name": "Apparel Component 97",
+        "Location": "Main-Store",
+        "System Stock": 899,
+        "Physical Stock": 899,
+        "Value": 23436.93,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10282",
+        "Name": "Apparel Module 44",
+        "Location": "Hub-South",
+        "System Stock": 78,
+        "Physical Stock": 78,
+        "Value": 26450.58,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10283",
+        "Name": "Automotive Widget 52",
+        "Location": "Main-Store",
+        "System Stock": 49,
+        "Physical Stock": 49,
+        "Value": 24367.7,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10284",
+        "Name": "Automotive Pack 74",
+        "Location": "Hub-South",
+        "System Stock": 966,
+        "Physical Stock": 966,
+        "Value": 477416.52,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10285",
+        "Name": "Home-Goods Component 48",
+        "Location": "Warehouse-B",
+        "System Stock": 653,
+        "Physical Stock": 603,
+        "Value": 172789.65,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10286",
+        "Name": "Home-Goods Widget 92",
+        "Location": "Warehouse-B",
+        "System Stock": 488,
+        "Physical Stock": 478,
+        "Value": 146435.3,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10287",
+        "Name": "Apparel Pack 88",
+        "Location": "Warehouse-B",
+        "System Stock": 343,
+        "Physical Stock": 343,
+        "Value": 134963.64,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10288",
+        "Name": "Apparel Pack 73",
+        "Location": "Warehouse-A",
+        "System Stock": 695,
+        "Physical Stock": 695,
+        "Value": 327588.25,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10289",
+        "Name": "Electronics Module 79",
+        "Location": "Main-Store",
+        "System Stock": 307,
+        "Physical Stock": 307,
+        "Value": 85536.34,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10290",
+        "Name": "Automotive Module 92",
+        "Location": "Hub-South",
+        "System Stock": 176,
+        "Physical Stock": 176,
+        "Value": 37970.24,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10291",
+        "Name": "Apparel Gadget 82",
+        "Location": "Warehouse-A",
+        "System Stock": 328,
+        "Physical Stock": 328,
+        "Value": 63458.16,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10292",
+        "Name": "Electronics Pack 69",
+        "Location": "Warehouse-A",
+        "System Stock": 956,
+        "Physical Stock": 956,
+        "Value": 83793.4,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10293",
+        "Name": "Electronics Widget 16",
+        "Location": "Warehouse-A",
+        "System Stock": 221,
+        "Physical Stock": 221,
+        "Value": 88786.75,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10294",
+        "Name": "Office-Supplies Gadget 62",
+        "Location": "Warehouse-A",
+        "System Stock": 40,
+        "Physical Stock": 0,
+        "Value": 0.0,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10295",
+        "Name": "Apparel Widget 50",
+        "Location": "Hub-North",
+        "System Stock": 898,
+        "Physical Stock": 898,
+        "Value": 68697.0,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10296",
+        "Name": "Office-Supplies Device 93",
+        "Location": "Main-Store",
+        "System Stock": 667,
+        "Physical Stock": 667,
+        "Value": 75864.58,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10297",
+        "Name": "Automotive Gadget 63",
+        "Location": "Warehouse-A",
+        "System Stock": 663,
+        "Physical Stock": 663,
+        "Value": 78379.86,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10298",
+        "Name": "Apparel Pack 61",
+        "Location": "Hub-North",
+        "System Stock": 430,
+        "Physical Stock": 430,
+        "Value": 115317.4,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10299",
+        "Name": "Home-Goods Module 62",
+        "Location": "Warehouse-A",
+        "System Stock": 611,
+        "Physical Stock": 611,
+        "Value": 109442.32,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10300",
+        "Name": "Home-Goods Component 88",
+        "Location": "Warehouse-B",
+        "System Stock": 846,
+        "Physical Stock": 846,
+        "Value": 163108.8,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10301",
+        "Name": "Office-Supplies Gadget 14",
+        "Location": "Warehouse-A",
+        "System Stock": 937,
+        "Physical Stock": 937,
+        "Value": 74613.31,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10302",
+        "Name": "Automotive Widget 18",
+        "Location": "Hub-South",
+        "System Stock": 306,
+        "Physical Stock": 306,
+        "Value": 152749.08,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10303",
+        "Name": "Electronics Widget 54",
+        "Location": "Hub-North",
+        "System Stock": 854,
+        "Physical Stock": 854,
+        "Value": 338995.3,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10304",
+        "Name": "Home-Goods Gadget 74",
+        "Location": "Hub-South",
+        "System Stock": 346,
+        "Physical Stock": 346,
+        "Value": 37049.68,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10305",
+        "Name": "Automotive Gadget 68",
+        "Location": "Hub-South",
+        "System Stock": 406,
+        "Physical Stock": 406,
+        "Value": 68585.58,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10306",
+        "Name": "Apparel Component 35",
+        "Location": "Hub-North",
+        "System Stock": 93,
+        "Physical Stock": 93,
+        "Value": 43073.88,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10307",
+        "Name": "Electronics Component 37",
+        "Location": "Hub-North",
+        "System Stock": 684,
+        "Physical Stock": 684,
+        "Value": 38522.88,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10308",
+        "Name": "Office-Supplies Gadget 85",
+        "Location": "Warehouse-B",
+        "System Stock": 20,
+        "Physical Stock": 20,
+        "Value": 8820.0,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10309",
+        "Name": "Electronics Device 28",
+        "Location": "Hub-North",
+        "System Stock": 951,
+        "Physical Stock": 951,
+        "Value": 374598.9,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10310",
+        "Name": "Automotive Component 20",
+        "Location": "Warehouse-A",
+        "System Stock": 553,
+        "Physical Stock": 553,
+        "Value": 232713.46,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10311",
+        "Name": "Electronics Pack 13",
+        "Location": "Hub-South",
+        "System Stock": 833,
+        "Physical Stock": 838,
+        "Value": 26489.18,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10312",
+        "Name": "Electronics Component 85",
+        "Location": "Hub-North",
+        "System Stock": 853,
+        "Physical Stock": 853,
+        "Value": 241450.18,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10313",
+        "Name": "Apparel Module 85",
+        "Location": "Warehouse-B",
+        "System Stock": 727,
+        "Physical Stock": 717,
+        "Value": 61289.16,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10314",
+        "Name": "Automotive Widget 82",
+        "Location": "Main-Store",
+        "System Stock": 139,
+        "Physical Stock": 139,
+        "Value": 34316.32,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10315",
+        "Name": "Office-Supplies Pack 97",
+        "Location": "Hub-South",
+        "System Stock": 42,
+        "Physical Stock": 42,
+        "Value": 16800.42,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10316",
+        "Name": "Automotive Widget 97",
+        "Location": "Warehouse-A",
+        "System Stock": 710,
+        "Physical Stock": 710,
+        "Value": 203315.6,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10317",
+        "Name": "Office-Supplies Gadget 14",
+        "Location": "Hub-North",
+        "System Stock": 76,
+        "Physical Stock": 76,
+        "Value": 6498.76,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10318",
+        "Name": "Automotive Module 16",
+        "Location": "Hub-South",
+        "System Stock": 14,
+        "Physical Stock": 14,
+        "Value": 5806.08,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10319",
+        "Name": "Electronics Widget 44",
+        "Location": "Hub-North",
+        "System Stock": 317,
+        "Physical Stock": 317,
+        "Value": 91283.32,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10320",
+        "Name": "Automotive Pack 14",
+        "Location": "Hub-South",
+        "System Stock": 964,
+        "Physical Stock": 964,
+        "Value": 76223.48,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10321",
+        "Name": "Automotive Widget 99",
+        "Location": "Warehouse-A",
+        "System Stock": 826,
+        "Physical Stock": 826,
+        "Value": 277618.6,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10322",
+        "Name": "Home-Goods Device 65",
+        "Location": "Main-Store",
+        "System Stock": 896,
+        "Physical Stock": 896,
+        "Value": 133817.6,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10323",
+        "Name": "Home-Goods Component 36",
+        "Location": "Hub-South",
+        "System Stock": 995,
+        "Physical Stock": 995,
+        "Value": 477271.65,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10324",
+        "Name": "Home-Goods Gadget 41",
+        "Location": "Warehouse-A",
+        "System Stock": 945,
+        "Physical Stock": 945,
+        "Value": 119013.3,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10325",
+        "Name": "Apparel Component 11",
+        "Location": "Warehouse-A",
+        "System Stock": 160,
+        "Physical Stock": 160,
+        "Value": 25256.0,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10326",
+        "Name": "Apparel Component 42",
+        "Location": "Hub-South",
+        "System Stock": 867,
+        "Physical Stock": 867,
+        "Value": 197910.09,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10327",
+        "Name": "Electronics Device 71",
+        "Location": "Hub-South",
+        "System Stock": 42,
+        "Physical Stock": 37,
+        "Value": 16846.84,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10328",
+        "Name": "Office-Supplies Gadget 96",
+        "Location": "Hub-North",
+        "System Stock": 783,
+        "Physical Stock": 773,
+        "Value": 364013.43,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10329",
+        "Name": "Automotive Module 98",
+        "Location": "Warehouse-B",
+        "System Stock": 831,
+        "Physical Stock": 831,
+        "Value": 358052.97,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10330",
+        "Name": "Automotive Device 13",
+        "Location": "Warehouse-A",
+        "System Stock": 976,
+        "Physical Stock": 976,
+        "Value": 346411.68,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10331",
+        "Name": "Electronics Component 40",
+        "Location": "Hub-North",
+        "System Stock": 504,
+        "Physical Stock": 504,
+        "Value": 20240.64,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10332",
+        "Name": "Automotive Device 80",
+        "Location": "Main-Store",
+        "System Stock": 299,
+        "Physical Stock": 299,
+        "Value": 111446.27,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10333",
+        "Name": "Apparel Component 86",
+        "Location": "Warehouse-B",
+        "System Stock": 387,
+        "Physical Stock": 412,
+        "Value": 180159.36,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10334",
+        "Name": "Automotive Widget 81",
+        "Location": "Main-Store",
+        "System Stock": 127,
+        "Physical Stock": 127,
+        "Value": 44273.47,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10335",
+        "Name": "Apparel Gadget 77",
+        "Location": "Hub-South",
+        "System Stock": 666,
+        "Physical Stock": 671,
+        "Value": 325139.76,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10336",
+        "Name": "Home-Goods Widget 49",
+        "Location": "Warehouse-B",
+        "System Stock": 874,
+        "Physical Stock": 874,
+        "Value": 377218.4,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10337",
+        "Name": "Electronics Pack 93",
+        "Location": "Warehouse-A",
+        "System Stock": 345,
+        "Physical Stock": 345,
+        "Value": 159917.85,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10338",
+        "Name": "Automotive Gadget 82",
+        "Location": "Main-Store",
+        "System Stock": 671,
+        "Physical Stock": 671,
+        "Value": 239721.46,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10339",
+        "Name": "Electronics Pack 44",
+        "Location": "Main-Store",
+        "System Stock": 942,
+        "Physical Stock": 942,
+        "Value": 25688.34,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10340",
+        "Name": "Automotive Module 74",
+        "Location": "Warehouse-A",
+        "System Stock": 507,
+        "Physical Stock": 507,
+        "Value": 7746.96,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10341",
+        "Name": "Electronics Widget 32",
+        "Location": "Hub-North",
+        "System Stock": 121,
+        "Physical Stock": 121,
+        "Value": 53451.75,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10342",
+        "Name": "Automotive Pack 81",
+        "Location": "Hub-South",
+        "System Stock": 916,
+        "Physical Stock": 916,
+        "Value": 408261.2,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10343",
+        "Name": "Electronics Gadget 65",
+        "Location": "Warehouse-B",
+        "System Stock": 983,
+        "Physical Stock": 983,
+        "Value": 18106.86,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10344",
+        "Name": "Automotive Device 32",
+        "Location": "Main-Store",
+        "System Stock": 433,
+        "Physical Stock": 433,
+        "Value": 194507.93,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10345",
+        "Name": "Automotive Component 56",
+        "Location": "Main-Store",
+        "System Stock": 932,
+        "Physical Stock": 932,
+        "Value": 387544.24,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10346",
+        "Name": "Automotive Widget 88",
+        "Location": "Hub-North",
+        "System Stock": 915,
+        "Physical Stock": 915,
+        "Value": 16470.0,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10347",
+        "Name": "Apparel Device 17",
+        "Location": "Hub-South",
+        "System Stock": 662,
+        "Physical Stock": 662,
+        "Value": 144931.66,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10348",
+        "Name": "Office-Supplies Device 10",
+        "Location": "Main-Store",
+        "System Stock": 62,
+        "Physical Stock": 62,
+        "Value": 6421.34,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10349",
+        "Name": "Home-Goods Component 16",
+        "Location": "Warehouse-B",
+        "System Stock": 463,
+        "Physical Stock": 463,
+        "Value": 131251.24,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10350",
+        "Name": "Home-Goods Device 22",
+        "Location": "Warehouse-B",
+        "System Stock": 280,
+        "Physical Stock": 280,
+        "Value": 60743.2,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10351",
+        "Name": "Electronics Device 21",
+        "Location": "Hub-South",
+        "System Stock": 764,
+        "Physical Stock": 754,
+        "Value": 108485.52,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10352",
+        "Name": "Office-Supplies Gadget 98",
+        "Location": "Main-Store",
+        "System Stock": 758,
+        "Physical Stock": 758,
+        "Value": 114571.7,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10353",
+        "Name": "Automotive Widget 81",
+        "Location": "Warehouse-B",
+        "System Stock": 584,
+        "Physical Stock": 584,
+        "Value": 97551.36,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10354",
+        "Name": "Home-Goods Component 16",
+        "Location": "Main-Store",
+        "System Stock": 589,
+        "Physical Stock": 589,
+        "Value": 125138.94,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10355",
+        "Name": "Automotive Gadget 37",
+        "Location": "Hub-North",
+        "System Stock": 837,
+        "Physical Stock": 837,
+        "Value": 306634.95,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10356",
+        "Name": "Automotive Device 86",
+        "Location": "Hub-North",
+        "System Stock": 282,
+        "Physical Stock": 282,
+        "Value": 101088.54,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10357",
+        "Name": "Automotive Gadget 79",
+        "Location": "Warehouse-A",
+        "System Stock": 698,
+        "Physical Stock": 698,
+        "Value": 250274.88,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10358",
+        "Name": "Automotive Pack 16",
+        "Location": "Main-Store",
+        "System Stock": 224,
+        "Physical Stock": 224,
+        "Value": 18529.28,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10359",
+        "Name": "Apparel Component 88",
+        "Location": "Hub-South",
+        "System Stock": 313,
+        "Physical Stock": 313,
+        "Value": 46677.69,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10360",
+        "Name": "Office-Supplies Gadget 72",
+        "Location": "Hub-South",
+        "System Stock": 980,
+        "Physical Stock": 980,
+        "Value": 31526.6,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10361",
+        "Name": "Apparel Widget 11",
+        "Location": "Main-Store",
+        "System Stock": 504,
+        "Physical Stock": 504,
+        "Value": 188198.64,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10362",
+        "Name": "Automotive Pack 82",
+        "Location": "Hub-North",
+        "System Stock": 846,
+        "Physical Stock": 846,
+        "Value": 299484.0,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10363",
+        "Name": "Home-Goods Device 72",
+        "Location": "Hub-South",
+        "System Stock": 729,
+        "Physical Stock": 729,
+        "Value": 153906.48,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10364",
+        "Name": "Home-Goods Pack 69",
+        "Location": "Warehouse-B",
+        "System Stock": 31,
+        "Physical Stock": 31,
+        "Value": 3608.4,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10365",
+        "Name": "Electronics Device 40",
+        "Location": "Hub-North",
+        "System Stock": 537,
+        "Physical Stock": 542,
+        "Value": 22026.88,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10366",
+        "Name": "Apparel Component 74",
+        "Location": "Warehouse-A",
+        "System Stock": 562,
+        "Physical Stock": 567,
+        "Value": 244218.24,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10367",
+        "Name": "Office-Supplies Pack 97",
+        "Location": "Warehouse-B",
+        "System Stock": 812,
+        "Physical Stock": 812,
+        "Value": 215180.0,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10368",
+        "Name": "Automotive Module 32",
+        "Location": "Warehouse-B",
+        "System Stock": 95,
+        "Physical Stock": 95,
+        "Value": 29949.7,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10369",
+        "Name": "Apparel Component 64",
+        "Location": "Warehouse-A",
+        "System Stock": 132,
+        "Physical Stock": 132,
+        "Value": 49401.0,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10370",
+        "Name": "Automotive Pack 45",
+        "Location": "Main-Store",
+        "System Stock": 261,
+        "Physical Stock": 261,
+        "Value": 21728.25,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10371",
+        "Name": "Electronics Pack 86",
+        "Location": "Warehouse-B",
+        "System Stock": 427,
+        "Physical Stock": 427,
+        "Value": 93098.81,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10372",
+        "Name": "Apparel Component 57",
+        "Location": "Main-Store",
+        "System Stock": 836,
+        "Physical Stock": 836,
+        "Value": 62123.16,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10373",
+        "Name": "Electronics Module 46",
+        "Location": "Hub-South",
+        "System Stock": 143,
+        "Physical Stock": 143,
+        "Value": 67056.99,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10374",
+        "Name": "Office-Supplies Module 70",
+        "Location": "Main-Store",
+        "System Stock": 551,
+        "Physical Stock": 551,
+        "Value": 26304.74,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10375",
+        "Name": "Home-Goods Gadget 71",
+        "Location": "Warehouse-A",
+        "System Stock": 92,
+        "Physical Stock": 92,
+        "Value": 38519.48,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10376",
+        "Name": "Office-Supplies Gadget 79",
+        "Location": "Main-Store",
+        "System Stock": 854,
+        "Physical Stock": 854,
+        "Value": 53332.3,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10377",
+        "Name": "Office-Supplies Gadget 83",
+        "Location": "Warehouse-B",
+        "System Stock": 925,
+        "Physical Stock": 930,
+        "Value": 118947.0,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10378",
+        "Name": "Electronics Widget 64",
+        "Location": "Hub-South",
+        "System Stock": 885,
+        "Physical Stock": 880,
+        "Value": 40858.4,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10379",
+        "Name": "Automotive Device 47",
+        "Location": "Main-Store",
+        "System Stock": 980,
+        "Physical Stock": 980,
+        "Value": 219804.2,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10380",
+        "Name": "Apparel Pack 54",
+        "Location": "Warehouse-B",
+        "System Stock": 114,
+        "Physical Stock": 114,
+        "Value": 13479.36,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10381",
+        "Name": "Home-Goods Module 16",
+        "Location": "Warehouse-A",
+        "System Stock": 920,
+        "Physical Stock": 920,
+        "Value": 61327.2,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10382",
+        "Name": "Automotive Module 11",
+        "Location": "Hub-North",
+        "System Stock": 237,
+        "Physical Stock": 187,
+        "Value": 25394.6,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10383",
+        "Name": "Automotive Module 28",
+        "Location": "Warehouse-A",
+        "System Stock": 679,
+        "Physical Stock": 679,
+        "Value": 222915.7,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10384",
+        "Name": "Electronics Module 60",
+        "Location": "Hub-South",
+        "System Stock": 449,
+        "Physical Stock": 449,
+        "Value": 78372.95,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10385",
+        "Name": "Automotive Device 99",
+        "Location": "Warehouse-B",
+        "System Stock": 853,
+        "Physical Stock": 843,
+        "Value": 181084.83,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10386",
+        "Name": "Automotive Gadget 30",
+        "Location": "Hub-South",
+        "System Stock": 972,
+        "Physical Stock": 972,
+        "Value": 356821.2,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10387",
+        "Name": "Automotive Gadget 84",
+        "Location": "Hub-South",
+        "System Stock": 772,
+        "Physical Stock": 772,
+        "Value": 120841.16,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10388",
+        "Name": "Home-Goods Component 75",
+        "Location": "Hub-South",
+        "System Stock": 668,
+        "Physical Stock": 668,
+        "Value": 67534.8,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10389",
+        "Name": "Office-Supplies Pack 86",
+        "Location": "Warehouse-A",
+        "System Stock": 466,
+        "Physical Stock": 466,
+        "Value": 188907.08,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10390",
+        "Name": "Home-Goods Pack 50",
+        "Location": "Hub-South",
+        "System Stock": 729,
+        "Physical Stock": 729,
+        "Value": 45752.04,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10391",
+        "Name": "Office-Supplies Pack 10",
+        "Location": "Hub-North",
+        "System Stock": 960,
+        "Physical Stock": 960,
+        "Value": 110256.0,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10392",
+        "Name": "Home-Goods Device 92",
+        "Location": "Hub-South",
+        "System Stock": 401,
+        "Physical Stock": 401,
+        "Value": 69561.47,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10393",
+        "Name": "Office-Supplies Module 54",
+        "Location": "Warehouse-B",
+        "System Stock": 856,
+        "Physical Stock": 856,
+        "Value": 145331.68,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10394",
+        "Name": "Electronics Pack 73",
+        "Location": "Hub-North",
+        "System Stock": 690,
+        "Physical Stock": 702,
+        "Value": 112397.22,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10395",
+        "Name": "Electronics Widget 94",
+        "Location": "Hub-South",
+        "System Stock": 355,
+        "Physical Stock": 355,
+        "Value": 120902.35,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10396",
+        "Name": "Automotive Module 25",
+        "Location": "Warehouse-B",
+        "System Stock": 179,
+        "Physical Stock": 179,
+        "Value": 46599.07,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10397",
+        "Name": "Office-Supplies Pack 92",
+        "Location": "Main-Store",
+        "System Stock": 690,
+        "Physical Stock": 690,
+        "Value": 44649.9,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10398",
+        "Name": "Automotive Widget 60",
+        "Location": "Warehouse-A",
+        "System Stock": 36,
+        "Physical Stock": 61,
+        "Value": 8175.83,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10399",
+        "Name": "Office-Supplies Pack 11",
+        "Location": "Hub-North",
+        "System Stock": 899,
+        "Physical Stock": 899,
+        "Value": 104140.16,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10400",
+        "Name": "Electronics Device 84",
+        "Location": "Main-Store",
+        "System Stock": 375,
+        "Physical Stock": 375,
+        "Value": 105510.0,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10401",
+        "Name": "Apparel Gadget 41",
+        "Location": "Main-Store",
+        "System Stock": 891,
+        "Physical Stock": 891,
+        "Value": 395399.07,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10402",
+        "Name": "Automotive Module 87",
+        "Location": "Warehouse-A",
+        "System Stock": 762,
+        "Physical Stock": 774,
+        "Value": 325080.0,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10403",
+        "Name": "Home-Goods Device 60",
+        "Location": "Hub-South",
+        "System Stock": 702,
+        "Physical Stock": 702,
+        "Value": 330712.2,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10404",
+        "Name": "Apparel Module 43",
+        "Location": "Main-Store",
+        "System Stock": 685,
+        "Physical Stock": 685,
+        "Value": 114271.7,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10405",
+        "Name": "Electronics Component 36",
+        "Location": "Main-Store",
+        "System Stock": 687,
+        "Physical Stock": 687,
+        "Value": 76181.43,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10406",
+        "Name": "Electronics Device 65",
+        "Location": "Warehouse-B",
+        "System Stock": 236,
+        "Physical Stock": 241,
+        "Value": 10555.8,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10407",
+        "Name": "Electronics Device 94",
+        "Location": "Warehouse-B",
+        "System Stock": 484,
+        "Physical Stock": 484,
+        "Value": 214034.48,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10408",
+        "Name": "Automotive Device 86",
+        "Location": "Warehouse-A",
+        "System Stock": 350,
+        "Physical Stock": 350,
+        "Value": 82439.0,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10409",
+        "Name": "Apparel Pack 40",
+        "Location": "Warehouse-A",
+        "System Stock": 679,
+        "Physical Stock": 679,
+        "Value": 125424.88,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10410",
+        "Name": "Home-Goods Module 46",
+        "Location": "Warehouse-A",
+        "System Stock": 417,
+        "Physical Stock": 407,
+        "Value": 155754.83,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10411",
+        "Name": "Office-Supplies Component 12",
+        "Location": "Hub-North",
+        "System Stock": 19,
+        "Physical Stock": 19,
+        "Value": 1576.05,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10412",
+        "Name": "Electronics Pack 30",
+        "Location": "Hub-South",
+        "System Stock": 858,
+        "Physical Stock": 808,
+        "Value": 242456.56,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10413",
+        "Name": "Apparel Module 75",
+        "Location": "Warehouse-B",
+        "System Stock": 724,
+        "Physical Stock": 724,
+        "Value": 14842.0,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10414",
+        "Name": "Office-Supplies Gadget 89",
+        "Location": "Hub-North",
+        "System Stock": 359,
+        "Physical Stock": 359,
+        "Value": 59453.99,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10415",
+        "Name": "Apparel Widget 18",
+        "Location": "Main-Store",
+        "System Stock": 898,
+        "Physical Stock": 898,
+        "Value": 287521.64,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10416",
+        "Name": "Apparel Component 72",
+        "Location": "Warehouse-B",
+        "System Stock": 943,
+        "Physical Stock": 943,
+        "Value": 105483.98,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10417",
+        "Name": "Home-Goods Component 32",
+        "Location": "Warehouse-A",
+        "System Stock": 186,
+        "Physical Stock": 186,
+        "Value": 11850.06,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10418",
+        "Name": "Automotive Pack 73",
+        "Location": "Warehouse-B",
+        "System Stock": 763,
+        "Physical Stock": 763,
+        "Value": 192626.98,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10419",
+        "Name": "Home-Goods Gadget 66",
+        "Location": "Hub-North",
+        "System Stock": 753,
+        "Physical Stock": 753,
+        "Value": 154974.93,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10420",
+        "Name": "Automotive Pack 77",
+        "Location": "Hub-North",
+        "System Stock": 819,
+        "Physical Stock": 819,
+        "Value": 181818.0,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10421",
+        "Name": "Apparel Pack 42",
+        "Location": "Warehouse-B",
+        "System Stock": 355,
+        "Physical Stock": 355,
+        "Value": 41790.6,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10422",
+        "Name": "Apparel Device 43",
+        "Location": "Warehouse-B",
+        "System Stock": 69,
+        "Physical Stock": 69,
+        "Value": 30738.81,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10423",
+        "Name": "Home-Goods Pack 50",
+        "Location": "Main-Store",
+        "System Stock": 16,
+        "Physical Stock": 16,
+        "Value": 860.8,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10424",
+        "Name": "Electronics Gadget 40",
+        "Location": "Main-Store",
+        "System Stock": 392,
+        "Physical Stock": 392,
+        "Value": 141131.76,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10425",
+        "Name": "Apparel Pack 56",
+        "Location": "Hub-North",
+        "System Stock": 698,
+        "Physical Stock": 698,
+        "Value": 304034.84,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10426",
+        "Name": "Automotive Widget 54",
+        "Location": "Warehouse-A",
+        "System Stock": 946,
+        "Physical Stock": 946,
+        "Value": 76398.96,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10427",
+        "Name": "Office-Supplies Pack 11",
+        "Location": "Hub-North",
+        "System Stock": 481,
+        "Physical Stock": 493,
+        "Value": 161920.92,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10428",
+        "Name": "Apparel Device 20",
+        "Location": "Warehouse-A",
+        "System Stock": 913,
+        "Physical Stock": 913,
+        "Value": 224296.71,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10429",
+        "Name": "Home-Goods Component 29",
+        "Location": "Hub-South",
+        "System Stock": 360,
+        "Physical Stock": 360,
+        "Value": 136310.4,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10430",
+        "Name": "Apparel Module 44",
+        "Location": "Warehouse-B",
+        "System Stock": 64,
+        "Physical Stock": 64,
+        "Value": 17880.96,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10431",
+        "Name": "Apparel Device 14",
+        "Location": "Hub-North",
+        "System Stock": 142,
+        "Physical Stock": 142,
+        "Value": 27276.78,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10432",
+        "Name": "Electronics Component 33",
+        "Location": "Warehouse-B",
+        "System Stock": 312,
+        "Physical Stock": 307,
+        "Value": 135024.74,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10433",
+        "Name": "Office-Supplies Pack 44",
+        "Location": "Main-Store",
+        "System Stock": 931,
+        "Physical Stock": 931,
+        "Value": 64360.03,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10434",
+        "Name": "Automotive Component 25",
+        "Location": "Hub-North",
+        "System Stock": 582,
+        "Physical Stock": 582,
+        "Value": 251127.18,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10435",
+        "Name": "Home-Goods Device 49",
+        "Location": "Warehouse-A",
+        "System Stock": 180,
+        "Physical Stock": 130,
+        "Value": 4858.1,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10436",
+        "Name": "Electronics Module 45",
+        "Location": "Hub-South",
+        "System Stock": 821,
+        "Physical Stock": 821,
+        "Value": 90580.93,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10437",
+        "Name": "Automotive Gadget 16",
+        "Location": "Hub-South",
+        "System Stock": 838,
+        "Physical Stock": 838,
+        "Value": 229754.46,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10438",
+        "Name": "Home-Goods Module 48",
+        "Location": "Warehouse-A",
+        "System Stock": 380,
+        "Physical Stock": 380,
+        "Value": 61385.2,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10439",
+        "Name": "Office-Supplies Pack 34",
+        "Location": "Warehouse-A",
+        "System Stock": 784,
+        "Physical Stock": 784,
+        "Value": 363572.16,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10440",
+        "Name": "Electronics Pack 56",
+        "Location": "Hub-North",
+        "System Stock": 724,
+        "Physical Stock": 729,
+        "Value": 303949.26,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10441",
+        "Name": "Electronics Widget 11",
+        "Location": "Main-Store",
+        "System Stock": 672,
+        "Physical Stock": 672,
+        "Value": 203669.76,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10442",
+        "Name": "Office-Supplies Component 56",
+        "Location": "Warehouse-B",
+        "System Stock": 697,
+        "Physical Stock": 697,
+        "Value": 32508.08,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10443",
+        "Name": "Home-Goods Device 93",
+        "Location": "Hub-North",
+        "System Stock": 421,
+        "Physical Stock": 411,
+        "Value": 157186.95,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10444",
+        "Name": "Home-Goods Gadget 53",
+        "Location": "Main-Store",
+        "System Stock": 384,
+        "Physical Stock": 384,
+        "Value": 98887.68,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10445",
+        "Name": "Apparel Module 68",
+        "Location": "Hub-North",
+        "System Stock": 95,
+        "Physical Stock": 95,
+        "Value": 33034.35,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10446",
+        "Name": "Automotive Gadget 98",
+        "Location": "Warehouse-B",
+        "System Stock": 740,
+        "Physical Stock": 740,
+        "Value": 130565.6,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10447",
+        "Name": "Home-Goods Module 10",
+        "Location": "Hub-South",
+        "System Stock": 209,
+        "Physical Stock": 209,
+        "Value": 18341.84,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10448",
+        "Name": "Home-Goods Widget 51",
+        "Location": "Warehouse-A",
+        "System Stock": 189,
+        "Physical Stock": 214,
+        "Value": 34205.76,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10449",
+        "Name": "Apparel Widget 82",
+        "Location": "Hub-South",
+        "System Stock": 219,
+        "Physical Stock": 219,
+        "Value": 70055.91,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10450",
+        "Name": "Apparel Widget 84",
+        "Location": "Warehouse-A",
+        "System Stock": 981,
+        "Physical Stock": 981,
+        "Value": 126352.8,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10451",
+        "Name": "Automotive Widget 10",
+        "Location": "Warehouse-B",
+        "System Stock": 471,
+        "Physical Stock": 471,
+        "Value": 128385.18,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10452",
+        "Name": "Electronics Component 45",
+        "Location": "Warehouse-A",
+        "System Stock": 874,
+        "Physical Stock": 874,
+        "Value": 189972.64,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10453",
+        "Name": "Automotive Pack 12",
+        "Location": "Warehouse-A",
+        "System Stock": 629,
+        "Physical Stock": 629,
+        "Value": 10472.85,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10454",
+        "Name": "Automotive Device 20",
+        "Location": "Warehouse-B",
+        "System Stock": 912,
+        "Physical Stock": 912,
+        "Value": 276016.8,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10455",
+        "Name": "Apparel Device 32",
+        "Location": "Hub-South",
+        "System Stock": 969,
+        "Physical Stock": 969,
+        "Value": 31540.95,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10456",
+        "Name": "Apparel Device 39",
+        "Location": "Warehouse-B",
+        "System Stock": 67,
+        "Physical Stock": 67,
+        "Value": 18116.8,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10457",
+        "Name": "Office-Supplies Widget 83",
+        "Location": "Hub-North",
+        "System Stock": 166,
+        "Physical Stock": 166,
+        "Value": 58163.08,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10458",
+        "Name": "Home-Goods Module 44",
+        "Location": "Hub-South",
+        "System Stock": 900,
+        "Physical Stock": 912,
+        "Value": 324626.4,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10459",
+        "Name": "Office-Supplies Gadget 12",
+        "Location": "Hub-North",
+        "System Stock": 875,
+        "Physical Stock": 875,
+        "Value": 360596.25,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10460",
+        "Name": "Office-Supplies Gadget 61",
+        "Location": "Main-Store",
+        "System Stock": 648,
+        "Physical Stock": 648,
+        "Value": 115123.68,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10461",
+        "Name": "Apparel Component 89",
+        "Location": "Hub-South",
+        "System Stock": 261,
+        "Physical Stock": 261,
+        "Value": 106127.82,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10462",
+        "Name": "Office-Supplies Device 68",
+        "Location": "Hub-South",
+        "System Stock": 937,
+        "Physical Stock": 937,
+        "Value": 339268.96,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10463",
+        "Name": "Automotive Module 87",
+        "Location": "Warehouse-A",
+        "System Stock": 911,
+        "Physical Stock": 911,
+        "Value": 379668.36,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10464",
+        "Name": "Office-Supplies Widget 84",
+        "Location": "Hub-South",
+        "System Stock": 263,
+        "Physical Stock": 263,
+        "Value": 13844.32,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10465",
+        "Name": "Electronics Module 54",
+        "Location": "Hub-South",
+        "System Stock": 748,
+        "Physical Stock": 773,
+        "Value": 337569.1,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10466",
+        "Name": "Electronics Module 18",
+        "Location": "Hub-South",
+        "System Stock": 596,
+        "Physical Stock": 596,
+        "Value": 76651.56,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10467",
+        "Name": "Automotive Device 33",
+        "Location": "Warehouse-A",
+        "System Stock": 311,
+        "Physical Stock": 311,
+        "Value": 60654.33,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10468",
+        "Name": "Automotive Component 63",
+        "Location": "Warehouse-B",
+        "System Stock": 247,
+        "Physical Stock": 247,
+        "Value": 85706.53,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10469",
+        "Name": "Electronics Pack 87",
+        "Location": "Hub-South",
+        "System Stock": 56,
+        "Physical Stock": 56,
+        "Value": 2117.36,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10470",
+        "Name": "Electronics Widget 46",
+        "Location": "Hub-South",
+        "System Stock": 344,
+        "Physical Stock": 344,
+        "Value": 92274.56,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10471",
+        "Name": "Automotive Pack 55",
+        "Location": "Hub-North",
+        "System Stock": 304,
+        "Physical Stock": 304,
+        "Value": 144761.76,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10472",
+        "Name": "Office-Supplies Pack 27",
+        "Location": "Hub-North",
+        "System Stock": 356,
+        "Physical Stock": 356,
+        "Value": 78651.08,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10473",
+        "Name": "Automotive Pack 51",
+        "Location": "Hub-North",
+        "System Stock": 504,
+        "Physical Stock": 504,
+        "Value": 123096.96,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10474",
+        "Name": "Electronics Device 90",
+        "Location": "Hub-South",
+        "System Stock": 527,
+        "Physical Stock": 527,
+        "Value": 63271.62,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10475",
+        "Name": "Office-Supplies Widget 56",
+        "Location": "Hub-North",
+        "System Stock": 134,
+        "Physical Stock": 134,
+        "Value": 11229.2,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10476",
+        "Name": "Electronics Pack 36",
+        "Location": "Hub-South",
+        "System Stock": 640,
+        "Physical Stock": 665,
+        "Value": 181525.05,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10477",
+        "Name": "Electronics Module 45",
+        "Location": "Warehouse-B",
+        "System Stock": 258,
+        "Physical Stock": 258,
+        "Value": 82694.16,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10478",
+        "Name": "Apparel Gadget 51",
+        "Location": "Warehouse-A",
+        "System Stock": 787,
+        "Physical Stock": 787,
+        "Value": 286798.54,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10479",
+        "Name": "Office-Supplies Component 62",
+        "Location": "Hub-South",
+        "System Stock": 476,
+        "Physical Stock": 476,
+        "Value": 16812.32,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10480",
+        "Name": "Electronics Device 49",
+        "Location": "Hub-South",
+        "System Stock": 708,
+        "Physical Stock": 708,
+        "Value": 114363.24,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10481",
+        "Name": "Office-Supplies Gadget 80",
+        "Location": "Warehouse-B",
+        "System Stock": 906,
+        "Physical Stock": 906,
+        "Value": 268058.22,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10482",
+        "Name": "Home-Goods Pack 97",
+        "Location": "Main-Store",
+        "System Stock": 669,
+        "Physical Stock": 669,
+        "Value": 174729.42,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10483",
+        "Name": "Automotive Module 35",
+        "Location": "Main-Store",
+        "System Stock": 360,
+        "Physical Stock": 360,
+        "Value": 160268.4,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10484",
+        "Name": "Apparel Device 34",
+        "Location": "Warehouse-B",
+        "System Stock": 431,
+        "Physical Stock": 431,
+        "Value": 62482.07,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10485",
+        "Name": "Apparel Pack 24",
+        "Location": "Hub-South",
+        "System Stock": 436,
+        "Physical Stock": 436,
+        "Value": 106488.64,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10486",
+        "Name": "Apparel Module 77",
+        "Location": "Main-Store",
+        "System Stock": 965,
+        "Physical Stock": 915,
+        "Value": 300778.8,
+        "Status": "Discrepancy"
+    },
+    {
+        "SKU ID": "SKU-10487",
+        "Name": "Home-Goods Device 46",
+        "Location": "Hub-South",
+        "System Stock": 193,
+        "Physical Stock": 193,
+        "Value": 42622.12,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10488",
+        "Name": "Apparel Widget 75",
+        "Location": "Main-Store",
+        "System Stock": 351,
+        "Physical Stock": 351,
+        "Value": 112281.39,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10489",
+        "Name": "Electronics Widget 12",
+        "Location": "Hub-North",
+        "System Stock": 681,
+        "Physical Stock": 681,
+        "Value": 308738.16,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10490",
+        "Name": "Office-Supplies Component 50",
+        "Location": "Warehouse-A",
+        "System Stock": 707,
+        "Physical Stock": 707,
+        "Value": 119186.06,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10491",
+        "Name": "Electronics Pack 77",
+        "Location": "Warehouse-A",
+        "System Stock": 612,
+        "Physical Stock": 612,
+        "Value": 263759.76,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10492",
+        "Name": "Office-Supplies Module 82",
+        "Location": "Hub-North",
+        "System Stock": 784,
+        "Physical Stock": 784,
+        "Value": 162476.16,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10493",
+        "Name": "Automotive Widget 20",
+        "Location": "Hub-South",
+        "System Stock": 782,
+        "Physical Stock": 782,
+        "Value": 256081.54,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10494",
+        "Name": "Apparel Device 67",
+        "Location": "Main-Store",
+        "System Stock": 800,
+        "Physical Stock": 800,
+        "Value": 281432.0,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10495",
+        "Name": "Apparel Device 59",
+        "Location": "Hub-South",
+        "System Stock": 876,
+        "Physical Stock": 876,
+        "Value": 235845.48,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10496",
+        "Name": "Automotive Gadget 26",
+        "Location": "Warehouse-A",
+        "System Stock": 35,
+        "Physical Stock": 35,
+        "Value": 11987.5,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10497",
+        "Name": "Home-Goods Pack 56",
+        "Location": "Warehouse-A",
+        "System Stock": 280,
+        "Physical Stock": 280,
+        "Value": 101542.0,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10498",
+        "Name": "Electronics Pack 69",
+        "Location": "Warehouse-A",
+        "System Stock": 209,
+        "Physical Stock": 209,
+        "Value": 81273.83,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10499",
+        "Name": "Apparel Device 74",
+        "Location": "Warehouse-A",
+        "System Stock": 433,
+        "Physical Stock": 433,
+        "Value": 211836.59,
+        "Status": "Matched"
+    },
+    {
+        "SKU ID": "SKU-10500",
+        "Name": "Office-Supplies Component 69",
+        "Location": "Warehouse-A",
+        "System Stock": 119,
+        "Physical Stock": 119,
+        "Value": 50209.67,
+        "Status": "Matched"
+    }
+]
